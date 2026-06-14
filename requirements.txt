@@ -1,0 +1,8 @@
+pandas
+kagglehub
+sqlalchemy
+fastapi
+uvicorn
+python-dotenv
+scikit-learn
+joblib
