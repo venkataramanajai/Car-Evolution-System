@@ -12,11 +12,11 @@
 
 ## 👨‍💻 Developer Information
 
-* **Developer Name:** M. Phaneendra Sriramu
+* **Developer Name:** 
 * **University:** Aditya University
 * **Course:** Master of Computer Applications (MCA)
 * **Academic Batch:** 2025-27
-* **Roll Number:** 25M11MC093
+* **Roll Number:**
 * **Section:** B
 
 ---
@@ -395,3 +395,5 @@ All styling is written with highly modular CSS custom properties in `frontend/sr
 * **Advanced Neural Network Regressor:** Migrate the Random Forest models to a PyTorch multi-layer perceptron (MLP) for nonlinear mapping.
 * **Continuous Integration Actions:** Integrate GitHub Actions to auto-train and test ML models whenever new CSV datasets are committed.
 * **Real-time Price Inflation Model:** Adjust predicted values based on historical inflation rates index databases.
+#   C a r - E v o l u t i o n - S y s t e m  
+ 
